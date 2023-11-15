@@ -1,0 +1,14 @@
+.tilt{
+    margin: 30px;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+}
+.tilt img{
+    padding-top: 30px;
+}
+.tilt:hover{
+    
+    border: 1px solid lightgray;
+}
+.logo{
+    height: 200px
+}

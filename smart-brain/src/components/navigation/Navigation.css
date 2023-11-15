@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav p{
+    padding: 3px;
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.nav p:hover{
+    color: darkblue;
+}
